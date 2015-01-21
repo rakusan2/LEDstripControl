@@ -1,0 +1,52 @@
+C:\Users\Tomas\documents\visual studio 2010\Projects\LEDstripControl\LEDstripControl\bin\Debug\LEDstripControl.exe
+C:\Users\Tomas\documents\visual studio 2010\Projects\LEDstripControl\LEDstripControl\bin\Debug\LEDstripControl.pdb
+C:\Users\Tomas\documents\visual studio 2010\Projects\LEDstripControl\LEDstripControl\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Tomas\documents\visual studio 2010\Projects\LEDstripControl\LEDstripControl\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Tomas\documents\visual studio 2010\Projects\LEDstripControl\LEDstripControl\obj\x86\Debug\LEDstripControl.csproj.GenerateResource.Cache
+C:\Users\Tomas\documents\visual studio 2010\Projects\LEDstripControl\LEDstripControl\obj\x86\Debug\LEDstripControl.exe
+C:\Users\Tomas\documents\visual studio 2010\Projects\LEDstripControl\LEDstripControl\obj\x86\Debug\LEDstripControl.pdb
+F:\LEDstripControl\LEDstripControl\obj\x86\Debug\LEDstripControl.exe
+F:\LEDstripControl\LEDstripControl\obj\x86\Debug\LEDstripControl.pdb
+F:\LEDstripControl\LEDstripControl\bin\Debug\LEDstripControl.exe
+F:\LEDstripControl\LEDstripControl\bin\Debug\LEDstripControl.pdb
+F:\LEDstripControl\LEDstripControl\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\LEDstripControl\LEDstripControl\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\LEDstripControl\LEDstripControl\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\LEDstripControl\LEDstripControl\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\LEDstripControl\LEDstripControl\obj\x86\Debug\GenerateResource.write.1.tlog
+O:\LEDstripControl\LEDstripControl\obj\x86\Debug\LEDstripControl.exe
+O:\LEDstripControl\LEDstripControl\obj\x86\Debug\LEDstripControl.pdb
+O:\LEDstripControl\LEDstripControl\bin\Debug\LEDstripControl.exe
+O:\LEDstripControl\LEDstripControl\bin\Debug\LEDstripControl.pdb
+O:\LEDstripControl\LEDstripControl\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+O:\LEDstripControl\LEDstripControl\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+O:\LEDstripControl\LEDstripControl\obj\x86\Debug\LEDstripControl.csproj.GenerateResource.Cache
+O:\LEDstripControl\LEDstripControl\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+E:\LEDstripControl\LEDstripControl\obj\x86\Debug\LEDstripControl.exe
+E:\LEDstripControl\LEDstripControl\obj\x86\Debug\LEDstripControl.pdb
+E:\LEDstripControl\LEDstripControl\bin\Debug\LEDstripControl.exe
+E:\LEDstripControl\LEDstripControl\bin\Debug\LEDstripControl.pdb
+E:\LEDstripControl\LEDstripControl\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\LEDstripControl\LEDstripControl\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+E:\LEDstripControl\LEDstripControl\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\LEDstripControl\LEDstripControl\obj\x86\Debug\LEDstripControl.csproj.GenerateResource.Cache
+E:\LEDstripControl\LEDstripControl\obj\x86\Debug\LEDstripControl.csprojResolveAssemblyReference.cache
+O:\LEDstripControl\LEDstripControl\obj\x86\Debug\LEDstripControl.csprojResolveAssemblyReference.cache
+C:\Users\TomPC\Dropbox\LEDstripControl\LEDstripControl\obj\x86\Debug\LEDstripControl.exe
+C:\Users\TomPC\Dropbox\LEDstripControl\LEDstripControl\obj\x86\Debug\LEDstripControl.pdb
+T:\Dropbox\LEDstripControl\LEDstripControl\obj\x86\Debug\LEDstripControl.exe
+T:\Dropbox\LEDstripControl\LEDstripControl\obj\x86\Debug\LEDstripControl.pdb
+C:\Users\TomPC\Dropbox\LEDstripControl\LEDstripControl\bin\Debug\LEDstripControl.exe
+C:\Users\TomPC\Dropbox\LEDstripControl\LEDstripControl\bin\Debug\LEDstripControl.pdb
+C:\Users\TomPC\Dropbox\LEDstripControl\LEDstripControl\obj\x86\Debug\LEDstripControl.csprojResolveAssemblyReference.cache
+C:\Users\TomPC\Dropbox\LEDstripControl\LEDstripControl\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\TomPC\Dropbox\LEDstripControl\LEDstripControl\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\TomPC\Dropbox\LEDstripControl\LEDstripControl\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\TomPC\Dropbox\LEDstripControl\LEDstripControl\obj\x86\Debug\LEDstripControl.csproj.GenerateResource.Cache
+T:\Dropbox\LEDstripControl\LEDstripControl\bin\Debug\LEDstripControl.exe
+T:\Dropbox\LEDstripControl\LEDstripControl\bin\Debug\LEDstripControl.pdb
+T:\Dropbox\LEDstripControl\LEDstripControl\obj\x86\Debug\LEDstripControl.csprojResolveAssemblyReference.cache
+T:\Dropbox\LEDstripControl\LEDstripControl\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+T:\Dropbox\LEDstripControl\LEDstripControl\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+T:\Dropbox\LEDstripControl\LEDstripControl\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+T:\Dropbox\LEDstripControl\LEDstripControl\obj\x86\Debug\LEDstripControl.csproj.GenerateResource.Cache

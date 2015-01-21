@@ -1,0 +1,8 @@
+O:\LEDstripControl\LEDstripControl\bin\Release\LEDstripControl.exe
+O:\LEDstripControl\LEDstripControl\bin\Release\LEDstripControl.pdb
+O:\LEDstripControl\LEDstripControl\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+O:\LEDstripControl\LEDstripControl\obj\x86\Release\WindowsFormsApplication1.Form2.resources
+O:\LEDstripControl\LEDstripControl\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+O:\LEDstripControl\LEDstripControl\obj\x86\Release\LEDstripControl.csproj.GenerateResource.Cache
+O:\LEDstripControl\LEDstripControl\obj\x86\Release\LEDstripControl.exe
+O:\LEDstripControl\LEDstripControl\obj\x86\Release\LEDstripControl.pdb
