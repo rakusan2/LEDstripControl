@@ -50,3 +50,12 @@ T:\Dropbox\LEDstripControl\LEDstripControl\obj\x86\Debug\WindowsFormsApplication
 T:\Dropbox\LEDstripControl\LEDstripControl\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
 T:\Dropbox\LEDstripControl\LEDstripControl\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
 T:\Dropbox\LEDstripControl\LEDstripControl\obj\x86\Debug\LEDstripControl.csproj.GenerateResource.Cache
+C:\Users\Tomas\git\LEDstripControl\LEDstripControl\obj\x86\Debug\LEDstripControl.exe
+C:\Users\Tomas\git\LEDstripControl\LEDstripControl\obj\x86\Debug\LEDstripControl.pdb
+C:\Users\Tomas\git\LEDstripControl\LEDstripControl\bin\Debug\LEDstripControl.exe
+C:\Users\Tomas\git\LEDstripControl\LEDstripControl\bin\Debug\LEDstripControl.pdb
+C:\Users\Tomas\git\LEDstripControl\LEDstripControl\obj\x86\Debug\LEDstripControl.csprojResolveAssemblyReference.cache
+C:\Users\Tomas\git\LEDstripControl\LEDstripControl\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Tomas\git\LEDstripControl\LEDstripControl\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Tomas\git\LEDstripControl\LEDstripControl\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Tomas\git\LEDstripControl\LEDstripControl\obj\x86\Debug\LEDstripControl.csproj.GenerateResource.Cache

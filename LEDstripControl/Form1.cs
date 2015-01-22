@@ -350,7 +350,7 @@ namespace WindowsFormsApplication1
                         {
                             if (this.location[iii] - this.location[ii] == dife * (iii - ii))
                             {
-                                diff[i][iii - ii].location.Add(this.location[iii]);
+                                diff[i][ii-i-1].location.Add(this.location[iii]);
                             }
                             else break;
                         }
